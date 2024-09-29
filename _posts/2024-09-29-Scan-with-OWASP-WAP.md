@@ -1,6 +1,6 @@
 # My scan with OWASP ZAP tool
 
-A cookie without the HttpOnly flag set can pose security risks. Let me explain:
+A cookie without the HttpOnly flag set can pose security risks.
 
 **What is the HttpOnly flag?**
 ```The HttpOnly flag is an attribute set on a cookie that prevents client-side JavaScript

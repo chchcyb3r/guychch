@@ -1,2 +1,2 @@
 **Simple notes**
-Notes about security daily
+my daily notes

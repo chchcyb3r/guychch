@@ -1,2 +1,1 @@
-**Simple notes**
-my daily notes
+**Life is short, make it fun**

@@ -1,2 +1,2 @@
-# simple_notes
+**Simple notes**
 Notes about security daily

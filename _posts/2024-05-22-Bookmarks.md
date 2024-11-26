@@ -3,6 +3,55 @@ layout: post
 title: Bookmarks
 Catgegoy: Bookmarks
 ---
+# This list is a mixture of both offensive & defensive oriented platforms but having a good understanding of both can only be beneficial!
+
+* TryHackMe - https://tryhackme.com
+
+* HackTheBox - https://lnkd.in/esmZ7pFT
+
+* LetsDefend - https://letsdefend.io/
+
+* BTLO - https://lnkd.in/epMGFVuz
+
+* Cybrary - https://www.cybrary.it/
+
+* CyberDefenders - https://lnkd.in/ehsFa5Wg
+
+* OverTheWire - https://lnkd.in/ekrSGkXW
+
+* PentesterLab - https://lnkd.in/eSG3446e
+
+* TCM Security - https://lnkd.in/es8-aSfM
+
+* DFIR Diva - https://dfirdiva.com/
+
+* Microsoft Learn - https://lnkd.in/eWcusXtg
+
+* EchoCTF - https://echoctf.red/
+
+* RangeForce - https://lnkd.in/etp4T5dB
+
+* CryptoHack - https://cryptohack.org/
+
+* Splunk Training - https://lnkd.in/e-uNY8Tq
+
+* INE - https://lnkd.in/engTXZ7v
+
+* PortSwigger Web Security Academy - https://lnkd.in/ed5nQCZc
+
+* TraceLabs - https://www.tracelabs.org/
+
+* Mossé Cyber Security Institute - https://lnkd.in/epUW_Z4s
+
+* CSI Linux - https://lnkd.in/ekP4pCDn
+
+* Capture The Talent Academy - https://lnkd.in/eS7-iYBw
+
+* ITProTV - https://www.itpro.tv/
+
+* VulnMachines - https://lnkd.in/evFvt4c8
+
+* Immersive Labs - https://lnkd.in/eMZQgj8i
 
 # Cigna insurance login 
 * https://login.cigna.com/

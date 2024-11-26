@@ -14,7 +14,7 @@ Catgegoy: Bookmarks
 * NetworkWorld [(Links to an external site.)](https://www.networkworld.com/){:target="_blank"}
 * RedmondMag  [(Links to an external site.)](https://redmondmag.com/Home.aspx){:target="_blank"}
 * Slashdot [(Links to an external site)](https://slashdot.org/){:target="_blank"}
-* [Trusted Reviews](https://www.trustedreviews.com/)
+* [Trusted Reviews](https://www.trustedreviews.com/){:target="_blank"}
 
 ## VMware Pro is free now for all users
 https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html

@@ -3,6 +3,28 @@ layout: post
 title: Bookmarks
 Catgegoy: Bookmarks
 ---
+# Best 10 places for learning:
+
+
+* tryhackme
+
+* DVWA
+
+* XVWA?
+
+* WebGoat
+
+* OWASP Juice Shop
+
+* hackthebox
+
+* burp academy
+
+* overthewire (natas)
+
+* bug bounties (bugcrowd/hackerone/etc..)
+
+
 # This list is a mixture of both offensive & defensive oriented platforms but having a good understanding of both can only be beneficial!
 
 * TryHackMe - https://tryhackme.com

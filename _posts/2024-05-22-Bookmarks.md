@@ -4,16 +4,17 @@ title: Bookmarks
 Catgegoy: Bookmarks
 ---
 # Sources for computer news articles are listed below, but this is not an exhaustive list.  You may select articles from other sources. 
-* BleepingComputer (Links to an external site.)
-* Business Insider (Links to an external site.)
-* Computerworld (Links to an external site.)
-* Dr. Dobb's (Links to an external site.)
-* eWeek (Links to an external site.) (Links to an external site.)
-* Infoworld (Links to an external site.)
-* MacRumors (Links to an external site.)
-* NetworkWorld (Links to an external site.)
-* RedmondMag  (Links to an external site.)
-* Slashdot (Links to an 
+* BleepingComputer [(Links to an external site.)](https://www.bleepingcomputer.com/)
+* Business Insider [(Links to an external site.)](https://www.businessinsider.com/)
+* Computerworld [(Links to an external site.)](https://www.computerworld.com/)
+* Dr. Dobb's [(Links to an external site.)](https://www.drdobbs.com/)
+* eWeek [(Links to an external site.)](https://www.eweek.com/)
+* Infoworld [(Links to an external site.)](https://www.infoworld.com/)
+* MacRumors [(Links to an external site.)](https://www.macrumors.com/)
+* NetworkWorld [(Links to an external site.)](https://www.networkworld.com/)
+* RedmondMag  [(Links to an external site.)](https://redmondmag.com/Home.aspx)
+* Slashdot [(Links to an external site)](https://slashdot.org/)
+[* Trusted Reviews](https://www.trustedreviews.com/)
 
 ## VMware Pro is free now for all users
 https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html

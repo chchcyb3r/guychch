@@ -4,17 +4,17 @@ title: Bookmarks
 Catgegoy: Bookmarks
 ---
 # Sources for computer news articles are listed below, but this is not an exhaustive list.  You may select articles from other sources. 
-* BleepingComputer [(Links to an external site.)](https://www.bleepingcomputer.com/)
-* Business Insider [(Links to an external site.)](https://www.businessinsider.com/)
-* Computerworld [(Links to an external site.)](https://www.computerworld.com/)
-* Dr. Dobb's [(Links to an external site.)](https://www.drdobbs.com/)
-* eWeek [(Links to an external site.)](https://www.eweek.com/)
-* Infoworld [(Links to an external site.)](https://www.infoworld.com/)
-* MacRumors [(Links to an external site.)](https://www.macrumors.com/)
-* NetworkWorld [(Links to an external site.)](https://www.networkworld.com/)
-* RedmondMag  [(Links to an external site.)](https://redmondmag.com/Home.aspx)
-* Slashdot [(Links to an external site)](https://slashdot.org/)
-[* Trusted Reviews](https://www.trustedreviews.com/)
+* BleepingComputer [(Links to an external site.)](https://www.bleepingcomputer.com/){:target="_blank"}
+* Business Insider [(Links to an external site.)](https://www.businessinsider.com/){:target="_blank"}
+* Computerworld [(Links to an external site.)](https://www.computerworld.com/){:target="_blank"}
+* Dr. Dobb's [(Links to an external site.)](https://www.drdobbs.com/){:target="_blank"}
+* eWeek [(Links to an external site.)](https://www.eweek.com/){:target="_blank"}
+* Infoworld [(Links to an external site.)](https://www.infoworld.com/){:target="_blank"}
+* MacRumors [(Links to an external site.)](https://www.macrumors.com/){:target="_blank"}
+* NetworkWorld [(Links to an external site.)](https://www.networkworld.com/){:target="_blank"}
+* RedmondMag  [(Links to an external site.)](https://redmondmag.com/Home.aspx){:target="_blank"}
+* Slashdot [(Links to an external site)](https://slashdot.org/){:target="_blank"}
+* [Trusted Reviews](https://www.trustedreviews.com/)
 
 ## VMware Pro is free now for all users
 https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html

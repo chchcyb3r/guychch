@@ -33,19 +33,19 @@ Licensing Information: No license key is required for Personal Use.  When instal
 https://learntibetanlanguage.org/
 
 ## malware traffice analysis
-https://www.malware-traffic-analysis.net/index.html
+* [https://www.malware-traffic-analysis.net/index.html](https://www.malware-traffic-analysis.net/index.html){:target="_blank"}
 
 
 ## Web OS
 
 ### prozilla-os
-https://github.com/prozilla-os/ProzillaOS?tab=readme-ov-file
-https://prozilla.dev/
-https://os.prozilla.dev/
+* [https://github.com/prozilla-os/ProzillaOS?tab=readme-ov-file](https://github.com/prozilla-os/ProzillaOS?tab=readme-ov-file){:target="_blank"}
+* [https://prozilla.dev/](https://prozilla.dev/){:target="_blank"}
+* [https://os.prozilla.dev/](https://os.prozilla.dev/){:target="_blank"}
 
 ### Puter
-https://puter.com/
-https://github.com/HeyPuter/puter
-https://posthog.com/
+* [https://puter.com/](https://puter.com/){:target="_blank"}
+* [https://github.com/HeyPuter/puter](https://github.com/HeyPuter/puter){:target="_blank"}
+* [https://posthog.com/](https://posthog.com/){:target="_blank"}
 
 

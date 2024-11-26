@@ -25,6 +25,8 @@ Catgegoy: Bookmarks
 * bug bounties (bugcrowd/hackerone/etc..)
 
 * More: SEED labs 2.0, Portswigger academy, Immersive labs community edition has some free labs,  rangeforce.com they have some free resources available.
+* https://scs.hacking-lab.com/
+* https://hacking-lab.com/
 
 
 # This list is a mixture of both offensive & defensive oriented platforms but having a good understanding of both can only be beneficial!
